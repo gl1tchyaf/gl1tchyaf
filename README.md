@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasib Ar Rafiul Fahim
 - 👀 I’m interested in app and Game development
-- 🌱 I’m currently working with C, C++, Java, SQL, XML, HTML and learning swift, php and python. I have developed several Android application and working with a few and looking forward to start ios development in near future
+- 🌱 I’m currently working with C, C++, Java, SQL, XML, HTML, CSS, Swift and learning php and python. I have developed several Android application and working with a few and looking forward to start ios development in near future
 - 📫 How to reach me: email: blackhole27002@gmail.com
 - Facebook: Facebook.com/hasib.fahim.official
 
