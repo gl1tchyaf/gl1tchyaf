@@ -5,7 +5,7 @@
 
 - I can work with C, C++, Java, javafx, SQL, XML, HTML, CSS, Swift, Python, django, JavaScript, Blueprint visual Scripting and interested to learn more. I have developed several Android applications and working with a few, developed a few web apps, currently working as an game developer and looking forward to start ios development in near future.
 
-
+- Socials:
 [<img src='https://www.iconsdb.com/icons/preview/white/github-11-xxl.png' alt='github' height='40'>](https://github.com/gl1tchyaf)  [<img src='https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasib-ar-rafiul-fahim-b13286199/)  [<img src='https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png' alt='facebook' height='40'>](https://www.facebook.com/hasib.fahim.official)  [<img src='https://www.iconsdb.com/icons/preview/white/instagram-xxl.png' alt='instagram' height='40'>](https://www.instagram.com/_.gl1tch__/)  [<img src='https://www.iconsdb.com/icons/preview/white/stackoverflow-xxl.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10941617/thesickdevil)  [<img src='https://www.iconsdb.com/icons/preview/white/youtube-xxl.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxKuAfEDuKY1YaISq3k6EHA) 
 
 
