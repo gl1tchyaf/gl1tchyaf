@@ -4,6 +4,7 @@
 
 - I’m can work with C, C++, Java, javafx, SQL, XML, HTML, CSS, Swift, Python, django, JavaScript, Blueprint visual Scripting and interested to learn more. I have developed several Android applications and working with a few, developed a few web apps, currenty working as an game developer and looking forward to start ios development in near future.
 
+- 📫 How to reach me: Email: fahad.com66.fk@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gl1tchyaf)  
 
