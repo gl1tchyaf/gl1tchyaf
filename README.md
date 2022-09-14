@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Webapp and Mobile app developer<br>👯 I’m looking to work as a software developer<br>🌱 I’m currently learning React and NodeJS<br>💬 Ask me about anything related to software development<br>⚡ Fun fact: I can work straight 12 hours everyday if its about coding :3 <br>  💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc.
+👯 I’m currently working as an Webapp and Mobile app developer<br>🔭 I’m looking to work as a software developer<br>🌱 I’m currently learning React and NodeJS<br>💬 Ask me about anything related to software development<br>⚡ Fun fact: I can work straight 12 hours everyday if its about coding :3 <br>  💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc.
 
 
 ## 🌐 Socials:
