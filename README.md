@@ -6,7 +6,7 @@
 
 💬 Ask me about anything related to software and game development
 
-⚡ Fun fact: I can work straight 12 hours everyday if its about coding :3
+⚡ Fun fact: I can work straight 12 hours everyday if it is about coding :3
 
 💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc.
 
