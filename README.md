@@ -1,13 +1,13 @@
-👯 I’m currently working as an Webapp and Mobile app developer
-🔭 I’m looking to work as a game developer
-🌱 I’m currently focusing on game development in unity
-💬 Ask me about anything related to software and game development
-⚡ Fun fact: I can work straight 12 hours everyday if it is about coding :3
-💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc.
-📫 How to reach me: 
-email: hasibarrafiulfahim@gmail.com
-Facebook: Facebook.com/hasib.fahim.official
-LinkedIn: https://www.linkedin.com/in/hasibarrafiul/
+👯 I’m currently working as an Webapp and Mobile app developer <br>
+🔭 I’m looking to work as a game developer <br>
+🌱 I’m currently focusing on game development in unity <br>
+💬 Ask me about anything related to software and game development <br>
+⚡ Fun fact: I can work straight 12 hours everyday if it is about coding :3 <br>
+💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc. <br>
+📫 How to reach me:  <br>
+email: hasibarrafiulfahim@gmail.com <br>
+Facebook: Facebook.com/hasib.fahim.official <br>
+LinkedIn: https://www.linkedin.com/in/hasibarrafiul/ <br>
 
 
 ## 🌐 Socials:
