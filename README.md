@@ -6,7 +6,7 @@
 💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc. <br>
 📫 How to reach me:  <br>
 email: hasibarrafiulfahim@gmail.com <br>
-Facebook: Facebook.com/hasib.fahim.official <br>
+Facebook: https://www.facebook.com/hasib.fahim.official <br>
 LinkedIn: https://www.linkedin.com/in/hasibarrafiul/ <br>
 
 
