@@ -1,7 +1,6 @@
 👯 I’m currently working as an Webapp and Mobile app developer <br>
 🔭 I’m looking to work as a game developer <br>
 🌱 I’m currently focusing on game development in unity <br>
-💬 Ask me about anything related to software and game development <br>
 ⚡ Fun fact: I can work straight 12 hours everyday if it is about coding :3 <br>
 💫 I can work with C, C++, C#, Java, javafx, SQL, MongoDB, XML, HTML, CSS, Swift, Python, django, JavaScript, php, Laravel, ReactJS, NodeJS, Express.js, Blueprint visual Scripting etc. <br>
 📫 How to reach me:  <br>
